@@ -29,7 +29,7 @@ namespace CAPDesktopAlert
 
                 // Loads the XML file.  File can either be local on the machine or read from an XML file on the web.
                 XmlDocument xmlDocument = new XmlDocument();
-                //xmlDocument.Load("http://www.getrave.com/cap/kirtland/channel2");
+               
                 string url_arg = args[0].Replace(@"\", @"\\");
                 xmlDocument.Load(url_arg);
 
