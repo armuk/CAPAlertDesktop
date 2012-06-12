@@ -1,0 +1,27 @@
+<alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
+	<identifier>1332235844000194</identifier>
+	<sender>KirtlandCommunityCollege</sender>
+	<sent>2012-03-20T05:30:44-04:00</sent>
+	<status>Actual</status>
+	<msgType>Alert</msgType>
+	<scope>Public</scope>
+	<info>
+		<category>Env</category>
+		<event>This is a test Problem that you do not understand at all</event>
+		<responseType>None</responseType>
+		<urgency>Immediate</urgency>
+		<severity>Minor</severity>
+		<certainty>Likely</certainty>
+		<effective>2012-06-07T08:36:00-04:00</effective>
+		<onset>2012-03-20T05:19:00-04:00</onset>
+		<expires>2012-06-07T12:44:00-04:00</expires>
+		<senderName>Kirtland Community College</senderName>
+		<headline>
+			All classes at the Roscommon campus are cancelled 3/20/2012 due to an electrical problem in the INS building.
+		</headline>
+		<description>
+			All classes at the Roscommon campus are cancelled 3/20/2012 due to an electrical problem in the INS building.
+		</description>
+		<instruction>Staff should report as scheduled</instruction>
+	</info>
+</alert>

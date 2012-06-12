@@ -1,0 +1,9 @@
+C:\Documents and Settings\stefanholonick\My Documents\Visual Studio 2010\Projects\TestDesktop\TestDesktop\obj\x86\Release\CAPDesktop.exe
+C:\Documents and Settings\stefanholonick\My Documents\Visual Studio 2010\Projects\TestDesktop\TestDesktop\obj\x86\Release\CAPDesktop.pdb
+C:\Documents and Settings\stefanholonick\My Documents\Visual Studio 2010\Projects\TestDesktop\TestDesktop\bin\Release\CAPDesktop.exe
+C:\Documents and Settings\stefanholonick\My Documents\Visual Studio 2010\Projects\TestDesktop\TestDesktop\bin\Release\CAPDesktop.pdb
+C:\Documents and Settings\stefanholonick\My Documents\Visual Studio 2010\Projects\TestDesktop\TestDesktop\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\stefanholonick\My Documents\Visual Studio 2010\Projects\CAPAlertDesktop\TestDesktop\obj\x86\Release\CAPDesktop.exe
+C:\Documents and Settings\stefanholonick\My Documents\Visual Studio 2010\Projects\CAPAlertDesktop\TestDesktop\obj\x86\Release\CAPDesktop.pdb
+C:\Documents and Settings\stefanholonick\My Documents\Visual Studio 2010\Projects\CAPAlertDesktop\Program\obj\x86\Release\CAPDesktop.exe
+C:\Documents and Settings\stefanholonick\My Documents\Visual Studio 2010\Projects\CAPAlertDesktop\Program\obj\x86\Release\CAPDesktop.pdb
