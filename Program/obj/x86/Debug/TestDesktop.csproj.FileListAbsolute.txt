@@ -1,5 +1,0 @@
-C:\Documents and Settings\stefanholonick\My Documents\Visual Studio 2010\Projects\TestDesktop\TestDesktop\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\stefanholonick\My Documents\Visual Studio 2010\Projects\TestDesktop\TestDesktop\bin\Debug\CAPDesktop.exe
-C:\Documents and Settings\stefanholonick\My Documents\Visual Studio 2010\Projects\TestDesktop\TestDesktop\bin\Debug\CAPDesktop.pdb
-C:\Documents and Settings\stefanholonick\My Documents\Visual Studio 2010\Projects\TestDesktop\TestDesktop\obj\x86\Debug\CAPDesktop.exe
-C:\Documents and Settings\stefanholonick\My Documents\Visual Studio 2010\Projects\TestDesktop\TestDesktop\obj\x86\Debug\CAPDesktop.pdb
