@@ -18,7 +18,7 @@ This software was designed to be small, lightweight and easy to implement for ou
 
 ## What Happens
 
-If you are using an alert system like Rave Alert, you can post a CAP Alert.  In Rave you can identify the event (which will display as the title), the description (which will be the description), the effective time (which is when the alert will display itself), and expiration time (which is when the alert will go away).  This values are in the CAP XML feed.  Every minute the script compares the current time with the effective and expire times and then displays the message based on what was defined in the XML.  When the script is triggered the message will take over the screen and display in clear, red type.     
+If you are using an alert system like Rave Alert, you can post a CAP Alert.  In Rave you can identify the event (which will display as the title), the description (which will be the description), the effective time (which is when the alert will display itself), and expiration time (which is when the alert will go away).  These values are in the CAP XML feed.  Every minute the script compares the current time with the effective and expire times and then displays the message based on what was defined in the XML.  When the script is triggered the message will take over the screen and display in clear, red type.     
 
 
 ## Extending The Code
